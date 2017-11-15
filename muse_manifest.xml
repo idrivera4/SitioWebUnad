@@ -1,36 +1,44 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="index.com" resolutions="1x" timestamp="1510717007724">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="index.com" resolutions="1x" timestamp="1510770554942">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-p_g_-maestra.css" crc="157475196" ref="index:lecturas:multimedia"/>
-    <file name="index.css" crc="449142411" ref="index"/>
-    <file name="lecturas.css" crc="3780208972" ref="lecturas"/>
-    <file name="multimedia.css" crc="529812192" ref="multimedia"/>
+    <file name="master_a-p_g_-maestra.css" crc="356399360" ref="index:lecturas:multimedia:autores:actividades:objetivos"/>
+    <file name="index.css" crc="88390639" ref="index"/>
+    <file name="lecturas.css" crc="389813894" ref="lecturas"/>
+    <file name="multimedia.css" crc="242147736" ref="multimedia"/>
+    <file name="autores.css" crc="3910269724" ref="autores"/>
+    <file name="actividades.css" crc="520709972" ref="actividades"/>
+    <file name="objetivos.css" crc="343618322" ref="objetivos"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:lecturas:multimedia"/>
-    <file name="museutils.js" crc="163421577" ref="index:lecturas:multimedia"/>
-    <file name="whatinput.js" crc="86476730" ref="index:lecturas:multimedia"/>
-    <file name="museconfig.js" crc="168988563" ref="index:lecturas:multimedia"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:lecturas:multimedia"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index:lecturas:multimedia"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:lecturas:multimedia"/>
-    <file name="require.js" crc="244322403" ref="index:lecturas:multimedia"/>
-    <file name="webpro.js" crc="3848665353" ref="lecturas:multimedia"/>
-    <file name="musewpdisclosure.js" crc="4275188064" ref="lecturas"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:lecturas:multimedia:objetivos:actividades:autores"/>
+    <file name="museutils.js" crc="163421577" ref="index:lecturas:multimedia:objetivos:actividades:autores"/>
+    <file name="whatinput.js" crc="86476730" ref="index:lecturas:multimedia:objetivos:actividades:autores"/>
+    <file name="museconfig.js" crc="168988563" ref="index:lecturas:multimedia:objetivos:actividades:autores"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:lecturas:multimedia:objetivos:actividades:autores"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:lecturas:multimedia:objetivos:actividades:autores"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:lecturas:multimedia:objetivos:actividades:autores"/>
+    <file name="require.js" crc="244322403" ref="index:lecturas:multimedia:objetivos:actividades:autores"/>
+    <file name="webpro.js" crc="3848665353" ref="lecturas:multimedia:autores"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="lecturas:autores"/>
     <file name="musewpslideshow.js" crc="4041717617" ref="multimedia"/>
     <file name="jquery.museoverlay.js" crc="36492500" ref="multimedia"/>
     <file name="touchswipe.js" crc="404375771" ref="multimedia"/>
   </folder>
   <folder name="images">
-    <file name="logounad-crop-u103.png" crc="3961941033" ref="index:lecturas:multimedia"/>
-    <file name="imagen pegada 225x41.jpg" crc="3850975567" seo="true" ref="index:lecturas:multimedia"/>
-    <file name="certificado.jpg" crc="4070664742" seo="true" ref="index:lecturas:multimedia"/>
-    <file name="calidad1000.jpg" crc="390337755" seo="true" ref="index:lecturas:multimedia"/>
-    <file name="calidad9001.jpg" crc="382481080" seo="true" ref="index:lecturas:multimedia"/>
-    <file name="calidad18001.jpg" crc="34111721" seo="true" ref="index:lecturas:multimedia"/>
-    <file name="calidad14001.jpg" crc="3978773933" seo="true" ref="index:lecturas:multimedia"/>
+    <file name="logounad-crop-u103.png" crc="3985324645" ref="index:lecturas:multimedia:objetivos:actividades:autores"/>
+    <file name="imagen pegada 225x41.jpg" crc="3850975567" seo="true" ref="index:lecturas:multimedia:objetivos:actividades:autores"/>
+    <file name="certificado.jpg" crc="4070664742" seo="true" ref="index:lecturas:multimedia:objetivos:actividades:autores"/>
+    <file name="calidad1000.jpg" crc="390337755" seo="true" ref="index:lecturas:multimedia:objetivos:actividades:autores"/>
+    <file name="calidad9001.jpg" crc="382481080" seo="true" ref="index:lecturas:multimedia:objetivos:actividades:autores"/>
+    <file name="calidad18001.jpg" crc="34111721" seo="true" ref="index:lecturas:multimedia:objetivos:actividades:autores"/>
+    <file name="calidad14001.jpg" crc="3978773933" seo="true" ref="index:lecturas:multimedia:objetivos:actividades:autores"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="ivanriverafw.png" crc="4072421452" seo="true" ref="autores"/>
   </folder>
-  <file name="index.html" crc="4226242840" seo="true" mt="1510716936690" redirect="true"/>
-  <file name="lecturas.html" crc="133711265" seo="true" mt="1510716936690" redirect="true"/>
-  <file name="multimedia.html" crc="4008505353" seo="true" mt="1510716936690" redirect="true"/>
+  <file name="index.html" crc="446990055" seo="true" mt="1510770477658" redirect="true"/>
+  <file name="lecturas.html" crc="421236703" seo="true" mt="1510770477658" redirect="true"/>
+  <file name="multimedia.html" crc="436162203" seo="true" mt="1510770477658" redirect="true"/>
+  <file name="objetivos.html" crc="3847376577" seo="true" mt="1510770477658" redirect="true"/>
+  <file name="actividades.html" crc="355631605" seo="true" mt="1510770477658" redirect="true"/>
+  <file name="autores.html" crc="4007020540" seo="true" mt="1510770477658" redirect="true"/>
 </manifest>
